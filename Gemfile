@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'rake', '~> 10.0.0'
-gem 'github-pages'
+gem 'rake', '~> 10.3'
+gem 'github-pages', '>= 19'
