@@ -1,5 +1,0 @@
-#!/usr/bin/env sh
-
-set -e
-
-bundle exec ruby -rgithub-pages-health-check -e "puts GitHubPages::HealthCheck.check(File.read('CNAME').chomp)"
