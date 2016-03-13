@@ -2,4 +2,4 @@
 
 set -e
 
-bundle exec jekyll serve -w
+bundle exec jekyll serve --drafts --watch
