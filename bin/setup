@@ -2,9 +2,7 @@
 
 set -e
 
-if ! bundler --version > /dev/null; then
-    gem install bundler
-fi
+gem install bundler --conservative
 
 if ! bundle check > /dev/null; then
     bundle install
