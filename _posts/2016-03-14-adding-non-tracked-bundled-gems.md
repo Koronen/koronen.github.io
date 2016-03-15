@@ -1,5 +1,6 @@
 ---
 title: Adding non-tracked bundled gems
+subtitle: "Posted: 2016-03-14 | Author: Victor Koronen"
 layout: default
 ---
 
