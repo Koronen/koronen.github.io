@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 ruby File.read('.ruby-version').chomp
 
-gem 'github-pages', '>= 78'
+gem 'github-pages'
