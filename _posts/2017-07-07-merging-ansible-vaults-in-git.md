@@ -1,7 +1,6 @@
 ---
 title: Merging Ansible vaults in Git
-subtitle: "Posted: 2017-07-07 | Author: Victor Koronen"
-layout: default
+description: "Posted: 2017-07-07 | Author: Victor Koronen"
 ---
 
 While on the subject of [making Git and Ansible play nice together]({% post_url

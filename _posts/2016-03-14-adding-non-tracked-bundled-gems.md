@@ -1,7 +1,6 @@
 ---
 title: Adding non-tracked bundled gems
-subtitle: "Posted: 2016-03-14 | Author: Victor Koronen"
-layout: default
+description: "Posted: 2016-03-14 | Author: Victor Koronen"
 ---
 
 When collaborating on a Ruby project, you might run into a situation where you

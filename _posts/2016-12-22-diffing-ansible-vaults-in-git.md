@@ -1,7 +1,6 @@
 ---
 title: Diffing Ansible vaults in Git
-subtitle: "Posted: 2016-12-22 | Author: Victor Koronen"
-layout: default
+description: "Posted: 2016-12-22 | Author: Victor Koronen"
 ---
 
 I've been working a lot on infrastructure automation type of tasks recently.
