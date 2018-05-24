@@ -2,7 +2,6 @@
 plugins:
   - jekyll-default-layout
   - jekyll-theme-tactile
-google_analytics: UA-43267418-1
 highlighter: rouge
 lsi: false
 permalink: pretty
