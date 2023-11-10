@@ -1,10 +1,6 @@
 ---
-plugins:
-  - jekyll-default-layout
-  - jekyll-theme-tactile
-highlighter: rouge
-lsi: false
 permalink: pretty
 safe: true
+show_downloads: false
 theme: jekyll-theme-tactile
 title: Victor Koronen
