@@ -269,7 +269,7 @@ DEPENDENCIES
   github-pages
 
 RUBY VERSION
-   ruby 2.7.4p191
+   ruby 3.3.4p94
 
 BUNDLED WITH
-   2.4.22
+   2.5.23
