@@ -1,0 +1,26 @@
+{
+  "name": "koronen.github.io",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3.3-bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {
+      "configureZshAsDefaultShell": true,
+      "installOhMyZsh": false,
+      "installOhMyZshConfig": false,
+      "installZsh": true,
+      "upgradePackages": "true",
+      "userGid": "1000",
+      "userUid": "1000",
+      "username": "vscode"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "shopify.ruby-lsp"
+      ],
+      "settings": {
+        "rubyLsp.rubyVersionManager.identifier": "none"
+      }
+    }
+  }
+}
