@@ -1,6 +1,6 @@
 {
   "name": "koronen.github.io",
-  "image": "mcr.microsoft.com/devcontainers/ruby:3.3-bookworm",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3.3-trixie",
   "features": {
     "ghcr.io/devcontainers/features/common-utils:2": {
       "configureZshAsDefaultShell": true,
